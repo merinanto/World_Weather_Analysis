@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Adding config.py file.
+config.py
+try_except_test.ipynb
+Stu_Burundi.ipynb
+Unsolved_Airport_Ratings.ipynb
+weatheranalysis_intialsteps.ipynb
+WeatherPy_0.ipynb
