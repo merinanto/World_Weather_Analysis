@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-World weather analysis creates a weather map of around 2500 cities at random locations across the world which provides max temp,humidity,cloudsiness,wind speed and current weather conditions .Also user can provide their preferred temperature as input and program will generate the list of hotels along with city,country and current weather details on the cities with preferred temperature .If user decides the cities to be travelled program will provide the travel map and hotel details.
+World weather analysis creates a weather map of around 2500 cities at random locations across the world which provides max temp, humidity, cloudiness, wind speed and current weather conditions .Also user can provide their preferred temperature as input and program will generate the list of hotels along with city, country and current weather details on the cities with preferred temperature .If user decides the cities to be travelled program will provide the travel map and hotel details
 ## Analysis
 Analysis is done in three steps.
 ### Weather Database
