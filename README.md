@@ -5,7 +5,7 @@ Analysis is done in three steps.
 ### Weather Database
 Weather Database is created using the script:-
 https://github.com/merinanto/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb
-Also details of the cities at random locations across the world which provides max temp,humidity,cloudsiness,wind speed and current weather conditions is available at:-
+Also details of the cities at random locations across the world which provides max temp, humidity, cloudiness, wind speed and current weather conditions is available at:-
 https://github.com/merinanto/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv
 
 ### Vacation Search
